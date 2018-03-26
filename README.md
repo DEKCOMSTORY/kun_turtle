@@ -23,7 +23,7 @@ $ python ./turtle_.py
 ### Message
 Fighting na Kun_Turtle ^^
 
-สู้ๆนะ คุณต่า ^^
+สู้ๆนะ คุณเต่า ^^
 
 พวกเราจะคอยเป็นกำลังใจให้นะ
 
