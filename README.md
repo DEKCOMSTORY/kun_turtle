@@ -11,6 +11,7 @@ This repository is example of python code which built with turtle library.
 
 ### Preview
 
+![Turtle Preview](https://raw.githubusercontent.com/DEKCOMSTORY/kun_turtle/master/example.png)
 
 ### Usage
 
